@@ -1,0 +1,313 @@
+Data fetched at: 2023-08-14 15:03:22
+218693506      	Aug/13/2023 18:35   	OmarMGaber     	C - Modified GCD                             	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+218692942      	Aug/13/2023 18:30   	OmarMGaber     	C - Modified GCD                             	GNU C++20 (64)           	Time limit exceeded on test 5      	2000 ms        	0 KB           
+218692856      	Aug/13/2023 18:30   	OmarMGaber     	C - Modified GCD                             	GNU C++20 (64)           	Time limit exceeded on test 5      	2000 ms        	0 KB           
+218689668      	Aug/13/2023 18:04   	OmarMGaber     	B - Game with Telephone Numbers              	GNU C++20 (64)           	Wrong answer on test 5             	15 ms          	300 KB         
+218689269      	Aug/13/2023 18:01   	OmarMGaber     	B - Game with Telephone Numbers              	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	300 KB         
+218688417      	Aug/13/2023 17:53   	OmarMGaber     	B - Airport                                  	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+218624330      	Aug/13/2023 07:43   	OmarMGaber     	E - Making Anti-Palindromes                  	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+218481513      	Aug/12/2023 14:59   	OmarMGaber     	A - Vanya and Fence                          	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+218450682      	Aug/12/2023 10:54   	OmarMGaber     	A - Insert Digit                             	GNU C++20 (64)           	Accepted                           	31 ms          	500 KB         
+218439633      	Aug/12/2023 09:36   	OmarMGaber     	A - Tenzing and Tsondu                       	GNU C++20 (64)           	Accepted                           	46 ms          	0 KB           
+218258724      	Aug/11/2023 09:50   	OmarMGaber     	C - Tenzing and Balls                        	GNU C++20 (64)           	Wrong answer on test 2             	155 ms         	6700 KB        
+218257768      	Aug/11/2023 09:41   	OmarMGaber     	C - Tenzing and Balls                        	GNU C++20 (64)           	Wrong answer on test 2             	155 ms         	5900 KB        
+218087230      	Aug/10/2023 03:11   	OmarMGaber     	1 - Guess the Number                         	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+218087082      	Aug/10/2023 03:08   	OmarMGaber     	1 - Guess the Number                         	GNU C++20 (64)           	Idleness limit exceeded on test 1  	0 ms           	0 KB           
+217800246      	Aug/08/2023 06:35   	OmarMGaber     	B - Maximum Rounding                         	GNU C++20 (64)           	Accepted                           	15 ms          	500 KB         
+217655877      	Aug/07/2023 18:10   	OmarMGaber     	C - Assembly via Minimums                    	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+217653207      	Aug/07/2023 18:07   	OmarMGaber     	C - Assembly via Minimums                    	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+217623105      	Aug/07/2023 17:40   	OmarMGaber     	A - Array Coloring                           	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+217547686      	Aug/07/2023 09:27   	OmarMGaber     	C - Really Big Numbers                       	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+217513147      	Aug/07/2023 00:30   	OmarMGaber     	B - Books                                    	GNU C++20 (64)           	Accepted                           	62 ms          	800 KB         
+217512631      	Aug/07/2023 00:21   	OmarMGaber     	B - Books                                    	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+217512585      	Aug/07/2023 00:20   	OmarMGaber     	B - Books                                    	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+217512476      	Aug/07/2023 00:18   	OmarMGaber     	B - Books                                    	GNU C++20 (64)           	Wrong answer on test 4             	30 ms          	0 KB           
+217507417      	Aug/06/2023 23:04   	OmarMGaber     	C - Balanced Team                            	GNU C++20 (64)           	Accepted                           	78 ms          	800 KB         
+217505045      	Aug/06/2023 22:35   	OmarMGaber     	B - Interesting drink                        	GNU C++20 (64)           	Accepted                           	46 ms          	400 KB         
+217411277      	Aug/06/2023 09:11   	OmarMGaber     	B - Queries about less or equal elements     	GNU C++20 (64)           	Accepted                           	124 ms         	1600 KB        
+217409184      	Aug/06/2023 08:50   	OmarMGaber     	B - Worms                                    	GNU C++20 (64)           	Accepted                           	62 ms          	800 KB         
+217401508      	Aug/06/2023 06:59   	OmarMGaber     	B - Born This Way                            	GNU C++20 (64)           	Accepted                           	62 ms          	3100 KB        
+217401495      	Aug/06/2023 06:58   	OmarMGaber     	B - Born This Way                            	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+217401433      	Aug/06/2023 06:57   	OmarMGaber     	B - Born This Way                            	GNU C++20 (64)           	Wrong answer on test 5             	15 ms          	0 KB           
+217338300      	Aug/05/2023 19:08   	OmarMGaber     	B - Born This Way                            	GNU C++20 (64)           	Wrong answer on test 6             	0 ms           	0 KB           
+217262473      	Aug/05/2023 17:15   	OmarMGaber     	B - Pipeline                                 	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+217243797      	Aug/05/2023 14:25   	OmarMGaber     	B - Pipeline                                 	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+217208537      	Aug/05/2023 09:34   	OmarMGaber     	A - Remove Duplicates                        	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+217208480      	Aug/05/2023 09:34   	OmarMGaber     	A - Remove Duplicates                        	GNU C++20 (64)           	Wrong answer on test 1             	15 ms          	0 KB           
+217207944      	Aug/05/2023 09:29   	OmarMGaber     	A - Remove Duplicates                        	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+217149194      	Aug/04/2023 19:48   	OmarMGaber     	A - Bad Printer (A)                          	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+217143221      	Aug/04/2023 19:01   	OmarMGaber     	B - Increasing                               	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+217139957      	Aug/04/2023 18:35   	OmarMGaber     	D1 - Great Vova Wall (Version 1)             	GNU C++20 (64)           	Wrong answer on test 9             	31 ms          	1600 KB        
+217063157      	Aug/04/2023 06:02   	OmarMGaber     	B - Vasya and Books                          	GNU C++20 (64)           	Accepted                           	373 ms         	16000 KB       
+216945849      	Aug/03/2023 10:04   	OmarMGaber     	B - Mahmoud and Ehab and the message         	GNU C++20 (64)           	Accepted                           	234 ms         	24800 KB       
+216903358      	Aug/02/2023 23:32   	OmarMGaber     	A - Picky Eater                              	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+216890526      	Aug/02/2023 21:10   	OmarMGaber     	A - Feed with Candy                          	GNU C++20 (64)           	Wrong answer on test 8             	15 ms          	0 KB           
+216885880      	Aug/02/2023 20:33   	OmarMGaber     	A - Feed with Candy                          	GNU C++20 (64)           	Wrong answer on test 7             	15 ms          	0 KB           
+216885649      	Aug/02/2023 20:31   	OmarMGaber     	A - Feed with Candy                          	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+216880694      	Aug/02/2023 19:53   	OmarMGaber     	B - Facetook Priority Wall                   	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+216878959      	Aug/02/2023 19:40   	OmarMGaber     	B - Facetook Priority Wall                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+216872499      	Aug/02/2023 18:47   	OmarMGaber     	B - Lecture                                  	GNU C++20 (64)           	Accepted                           	15 ms          	400 KB         
+216802989      	Aug/02/2023 09:29   	OmarMGaber     	B - Two-gram                                 	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+216772063      	Aug/02/2023 01:43   	OmarMGaber     	C - Registration System                      	GNU C++20 (64)           	Accepted                           	218 ms         	1100 KB        
+216768664      	Aug/02/2023 00:29   	OmarMGaber     	A - Winner                                   	GNU C++20 (64)           	Wrong answer on test 10            	0 ms           	0 KB           
+216768580      	Aug/02/2023 00:27   	OmarMGaber     	A - Winner                                   	GNU C++20 (64)           	Wrong answer on test 10            	30 ms          	0 KB           
+216768165      	Aug/02/2023 00:19   	OmarMGaber     	B - Powers of Two                            	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	200 KB         
+216752313      	Aug/01/2023 21:10   	OmarMGaber     	A - Maximum Increase                         	GNU C++20 (64)           	Accepted                           	31 ms          	0 KB           
+216751594      	Aug/01/2023 21:03   	OmarMGaber     	A - Maximum Increase                         	GNU C++20 (64)           	Wrong answer on test 12            	15 ms          	0 KB           
+216746939      	Aug/01/2023 20:24   	OmarMGaber     	A - Anton and Polyhedrons                    	GNU C++20 (64)           	Accepted                           	31 ms          	0 KB           
+216746077      	Aug/01/2023 20:17   	OmarMGaber     	B - Chat Order                               	GNU C++20 (64)           	Time limit exceeded on test 13     	3000 ms        	1800 KB        
+216745596      	Aug/01/2023 20:13   	OmarMGaber     	B - Chat Order                               	GNU C++20 (64)           	Time limit exceeded on test 13     	3000 ms        	1800 KB        
+216744897      	Aug/01/2023 20:07   	OmarMGaber     	B - Chat Order                               	GNU C++20 (64)           	Accepted                           	234 ms         	22100 KB       
+216520960      	Jul/31/2023 05:33   	OmarMGaber     	B - Game with string                         	GNU C++20 (64)           	Accepted                           	15 ms          	300 KB         
+216494385      	Jul/30/2023 22:41   	OmarMGaber     	B - Regular Bracket Sequence                 	GNU C++20 (64)           	Accepted                           	30 ms          	2200 KB        
+216494147      	Jul/30/2023 22:38   	OmarMGaber     	B - Regular Bracket Sequence                 	GNU C++20 (64)           	Wrong answer on test 6             	0 ms           	0 KB           
+216492326      	Jul/30/2023 22:16   	OmarMGaber     	B - Alternating Current                      	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+216491856      	Jul/30/2023 22:10   	OmarMGaber     	B - Alternating Current                      	GNU C++20 (64)           	Accepted                           	30 ms          	300 KB         
+216382168      	Jul/30/2023 04:27   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216381975      	Jul/30/2023 04:23   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216381841      	Jul/30/2023 04:21   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216381782      	Jul/30/2023 04:20   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	15 ms          	0 KB           
+216381541      	Jul/30/2023 04:17   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216381420      	Jul/30/2023 04:14   	OmarMGaber     	D - Anti-Sudoku                              	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216380307      	Jul/30/2023 03:51   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Accepted                           	46 ms          	0 KB           
+216380195      	Jul/30/2023 03:49   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216379874      	Jul/30/2023 03:41   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216379261      	Jul/30/2023 03:25   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Wrong answer on test 2             	15 ms          	0 KB           
+216379199      	Jul/30/2023 03:24   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216379174      	Jul/30/2023 03:23   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216378615      	Jul/30/2023 03:09   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Time limit exceeded on test 2      	2000 ms        	0 KB           
+216377125      	Jul/30/2023 02:31   	OmarMGaber     	D - Buying Shovels                           	GNU C++20 (64)           	Time limit exceeded on test 2      	2000 ms        	0 KB           
+216376006      	Jul/30/2023 02:04   	OmarMGaber     	B - Trouble Sort                             	GNU C++20 (64)           	Accepted                           	31 ms          	0 KB           
+216353008      	Jul/29/2023 21:31   	OmarMGaber     	B - Longest Divisors Interval                	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+216352575      	Jul/29/2023 21:28   	OmarMGaber     	B - Longest Divisors Interval                	GNU C++20 (64)           	Accepted                           	31 ms          	0 KB           
+216349321      	Jul/29/2023 21:06   	OmarMGaber     	A - Dalton the Teacher                       	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+216290182      	Jul/29/2023 18:40   	OmarMGaber     	A - Greatest Convex                          	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+216041997      	Jul/28/2023 07:56   	OmarMGaber     	B - Vanya and Lanterns                       	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+216038819      	Jul/28/2023 07:13   	OmarMGaber     	I - Array Negations                          	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216038434      	Jul/28/2023 07:08   	OmarMGaber     	I - Array Negations                          	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216038074      	Jul/28/2023 07:03   	OmarMGaber     	I - Array Negations                          	GNU C++20 (64)           	Runtime error on test 2            	0 ms           	0 KB           
+216023220      	Jul/28/2023 03:41   	OmarMGaber     	B - Integral Array                           	GNU C++20 (64)           	Time limit exceeded on test 6      	2000 ms        	2000 KB        
+216022062      	Jul/28/2023 03:19   	OmarMGaber     	B - Integral Array                           	GNU C++20 (64)           	Time limit exceeded on test 6      	2000 ms        	2000 KB        
+216021981      	Jul/28/2023 03:17   	OmarMGaber     	B - Integral Array                           	GNU C++20 (64)           	Runtime error on test 3            	0 ms           	2000 KB        
+216017928      	Jul/28/2023 01:44   	OmarMGaber     	B - Sale                                     	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+216017873      	Jul/28/2023 01:43   	OmarMGaber     	B - Sale                                     	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+216017790      	Jul/28/2023 01:41   	OmarMGaber     	B - Sale                                     	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+216017399      	Jul/28/2023 01:32   	OmarMGaber     	B - Misha and Changing Handles               	GNU C++20 (64)           	Accepted                           	15 ms          	400 KB         
+216016752      	Jul/28/2023 01:19   	OmarMGaber     	B - Misha and Changing Handles               	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+216014513      	Jul/28/2023 00:39   	OmarMGaber     	A - Amr and Music                            	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+216014093      	Jul/28/2023 00:33   	OmarMGaber     	A - Amr and Music                            	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+216001068      	Jul/27/2023 21:50   	OmarMGaber     	B - Petya and Countryside                    	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+216000020      	Jul/27/2023 21:39   	OmarMGaber     	A - Drazil and Date                          	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215999856      	Jul/27/2023 21:37   	OmarMGaber     	A - Drazil and Date                          	GNU C++20 (64)           	Wrong answer on test 9             	0 ms           	0 KB           
+215999844      	Jul/27/2023 21:37   	OmarMGaber     	A - Drazil and Date                          	GNU C++20 (64)           	Compilation error                  	0 ms           	0 KB           
+215999704      	Jul/27/2023 21:36   	OmarMGaber     	A - Drazil and Date                          	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+215998633      	Jul/27/2023 21:27   	OmarMGaber     	A - HQ9+                                     	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215998171      	Jul/27/2023 21:23   	OmarMGaber     	A - HQ9+                                     	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215997412      	Jul/27/2023 21:16   	OmarMGaber     	A - Tanya and Stairways                      	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215995401      	Jul/27/2023 20:58   	OmarMGaber     	A - Petya and Java                           	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215993530      	Jul/27/2023 20:44   	OmarMGaber     	A - Petya and Java                           	GNU C++20 (64)           	Runtime error on test 3            	30 ms          	0 KB           
+215935518      	Jul/27/2023 18:26   	OmarMGaber     	A - Worms Evolution                          	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215934540      	Jul/27/2023 18:25   	OmarMGaber     	A - Worms Evolution                          	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+215933623      	Jul/27/2023 18:24   	OmarMGaber     	A - Worms Evolution                          	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+215932443      	Jul/27/2023 18:22   	OmarMGaber     	A - Worms Evolution                          	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215931970      	Jul/27/2023 18:22   	OmarMGaber     	A - Worms Evolution                          	Python 3                 	Compilation error                  	0 ms           	0 KB           
+215879373      	Jul/27/2023 16:50   	OmarMGaber     	A - Cheap Travel                             	Python 3                 	Wrong answer on test 8             	31 ms          	0 KB           
+215878971      	Jul/27/2023 16:46   	OmarMGaber     	A - Cheap Travel                             	Python 3                 	Wrong answer on test 14            	46 ms          	0 KB           
+215878696      	Jul/27/2023 16:44   	OmarMGaber     	A - Cheap Travel                             	Python 3                 	Wrong answer on test 3             	46 ms          	0 KB           
+215876927      	Jul/27/2023 16:29   	OmarMGaber     	A - Lucky Division                           	Python 3                 	Accepted                           	92 ms          	0 KB           
+215876118      	Jul/27/2023 16:22   	OmarMGaber     	A - Football                                 	Python 3                 	Accepted                           	92 ms          	0 KB           
+215875402      	Jul/27/2023 16:16   	OmarMGaber     	A - Domino piling                            	Python 3                 	Accepted                           	92 ms          	0 KB           
+215814224      	Jul/27/2023 06:53   	OmarMGaber     	A - Elephant                                 	Python 3                 	Accepted                           	31 ms          	0 KB           
+215810356      	Jul/27/2023 05:59   	OmarMGaber     	A - Beautiful Matrix                         	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215810255      	Jul/27/2023 05:58   	OmarMGaber     	A - Beautiful Matrix                         	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+215752766      	Jul/26/2023 17:58   	OmarMGaber     	A - Medium Number                            	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215739716      	Jul/26/2023 16:21   	OmarMGaber     	A - Snow Footprints                          	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+215738597      	Jul/26/2023 16:14   	OmarMGaber     	A - Snow Footprints                          	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+215658926      	Jul/26/2023 04:26   	OmarMGaber     	B - Even Array                               	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215658539      	Jul/26/2023 04:21   	OmarMGaber     	B - Even Array                               	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215656924      	Jul/26/2023 03:53   	OmarMGaber     	A - String Task                              	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215656862      	Jul/26/2023 03:51   	OmarMGaber     	A - String Task                              	GNU C++20 (64)           	Wrong answer on test 15            	0 ms           	0 KB           
+215599479      	Jul/25/2023 19:19   	OmarMGaber     	A - Escalator Conversations                  	GNU C++20 (64)           	Accepted                           	31 ms          	0 KB           
+215527289      	Jul/25/2023 17:53   	OmarMGaber     	B - Parity Sort                              	GNU C++20 (64)           	Accepted                           	62 ms          	3100 KB        
+215421584      	Jul/25/2023 03:11   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215421528      	Jul/25/2023 03:10   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	15 ms          	0 KB           
+215420883      	Jul/25/2023 02:54   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215420775      	Jul/25/2023 02:51   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215420713      	Jul/25/2023 02:50   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215420629      	Jul/25/2023 02:48   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+215420115      	Jul/25/2023 02:33   	OmarMGaber     	E - Cardboard for Pictures                   	GNU C++20 (64)           	Time limit exceeded on test 3      	2000 ms        	0 KB           
+215413301      	Jul/25/2023 00:05   	OmarMGaber     	C - Good Array                               	GNU C++20 (64)           	Accepted                           	46 ms          	6200 KB        
+215412809      	Jul/24/2023 23:58   	OmarMGaber     	C - Good Array                               	GNU C++20 (64)           	Wrong answer on test 30            	46 ms          	3700 KB        
+215412625      	Jul/24/2023 23:55   	OmarMGaber     	C - Good Array                               	GNU C++20 (64)           	Wrong answer on test 17            	31 ms          	3700 KB        
+215393535      	Jul/24/2023 20:29   	OmarMGaber     	B - Nikita and string                        	GNU C++20 (64)           	Wrong answer on test 3             	15 ms          	0 KB           
+215283865      	Jul/24/2023 03:56   	OmarMGaber     	C - Move Brackets                            	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+215278745      	Jul/24/2023 01:59   	OmarMGaber     	A - Long Comparison                          	GNU C++20 (64)           	Wrong answer on test 2             	30 ms          	0 KB           
+215278585      	Jul/24/2023 01:55   	OmarMGaber     	A - Long Comparison                          	GNU C++20 (64)           	Wrong answer on test 2             	46 ms          	0 KB           
+215278258      	Jul/24/2023 01:48   	OmarMGaber     	A - Long Comparison                          	GNU C++20 (64)           	Wrong answer on test 2             	15 ms          	0 KB           
+215277414      	Jul/24/2023 01:26   	OmarMGaber     	A - Long Comparison                          	GNU C++20 (64)           	Time limit exceeded on test 2      	2000 ms        	0 KB           
+215276741      	Jul/24/2023 01:11   	OmarMGaber     	B - Chess                                    	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+215235494      	Jul/23/2023 19:06   	OmarMGaber     	A - Desorting                                	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215233904      	Jul/23/2023 19:00   	OmarMGaber     	A - Desorting                                	GNU C++20 (64)           	Time limit exceeded on pretest 2   	1000 ms        	0 KB           
+215215831      	Jul/23/2023 18:12   	OmarMGaber     	A - Desorting                                	GNU C++20 (64)           	Wrong answer on pretest 2          	0 ms           	0 KB           
+215214992      	Jul/23/2023 18:10   	OmarMGaber     	A - Desorting                                	GNU C++20 (64)           	Wrong answer on pretest 2          	0 ms           	0 KB           
+215209089      	Jul/23/2023 17:58   	OmarMGaber     	A - Desorting                                	GNU C++20 (64)           	Wrong answer on pretest 2          	0 ms           	0 KB           
+215102621      	Jul/23/2023 00:11   	OmarMGaber     	A - Whose sentence is it?                    	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+215102472      	Jul/23/2023 00:08   	OmarMGaber     	A - Whose sentence is it?                    	GNU C++20 (64)           	Wrong answer on test 22            	15 ms          	0 KB           
+215102093      	Jul/23/2023 00:03   	OmarMGaber     	A - Whose sentence is it?                    	GNU C++20 (64)           	Wrong answer on test 11            	0 ms           	0 KB           
+215070789      	Jul/22/2023 19:09   	OmarMGaber     	B - Nikita and string                        	GNU C++20 (64)           	Wrong answer on test 3             	15 ms          	0 KB           
+215061010      	Jul/22/2023 18:04   	OmarMGaber     	B - Lecture Sleep                            	GNU C++20 (64)           	Accepted                           	46 ms          	2400 KB        
+215054476      	Jul/22/2023 17:18   	OmarMGaber     	A - Spell Check                              	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+215047781      	Jul/22/2023 16:28   	OmarMGaber     	B - Nirvana                                  	GNU C++20 (64)           	Time limit exceeded on test 8      	1000 ms        	0 KB           
+214927687      	Jul/21/2023 19:33   	OmarMGaber     	D - Balanced Round                           	GNU C++20 (64)           	Accepted                           	61 ms          	800 KB         
+214843959      	Jul/21/2023 18:12   	OmarMGaber     	B - Ten Words of Wisdom                      	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+214820886      	Jul/21/2023 17:58   	OmarMGaber     	B - Ten Words of Wisdom                      	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+214811736      	Jul/21/2023 17:53   	OmarMGaber     	B - Ten Words of Wisdom                      	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+214790301      	Jul/21/2023 17:45   	OmarMGaber     	C - Word on the Paper                        	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+214774178      	Jul/21/2023 17:40   	OmarMGaber     	A - To My Critics                            	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+214756769      	Jul/21/2023 17:15   	OmarMGaber     	A - Bit++                                    	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+214754645      	Jul/21/2023 16:55   	OmarMGaber     	A - Young Physicist                          	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+214754314      	Jul/21/2023 16:51   	OmarMGaber     	A - Young Physicist                          	GNU C++20 (64)           	Wrong answer on test 81            	30 ms          	0 KB           
+214603479      	Jul/20/2023 14:01   	OmarMGaber     	B - Airport                                  	GNU C++20 (64)           	Accepted                           	30 ms          	0 KB           
+214602754      	Jul/20/2023 13:55   	OmarMGaber     	B - Airport                                  	GNU C++20 (64)           	Wrong answer on test 6             	0 ms           	0 KB           
+214602215      	Jul/20/2023 13:50   	OmarMGaber     	B - Airport                                  	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+214528221      	Jul/19/2023 21:40   	OmarMGaber     	B - Preparation for International Women's Day	GNU C++20 (64)           	Accepted                           	108 ms         	0 KB           
+214522593      	Jul/19/2023 20:43   	OmarMGaber     	B - Preparation for International Women's Day	GNU C++20 (64)           	Time limit exceeded on test 4      	2000 ms        	1600 KB        
+214260663      	Jul/17/2023 23:29   	OmarMGaber     	B - Fence                                    	GNU C++20 (64)           	Accepted                           	31 ms          	1200 KB        
+214259076      	Jul/17/2023 23:08   	OmarMGaber     	B - Fence                                    	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+214258478      	Jul/17/2023 23:00   	OmarMGaber     	B - Fence                                    	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+214258374      	Jul/17/2023 22:58   	OmarMGaber     	B - Fence                                    	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+214255880      	Jul/17/2023 22:28   	OmarMGaber     	B - Cutting                                  	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+214230071      	Jul/17/2023 18:33   	OmarMGaber     	A - Medium Number                            	GNU C++20 (64)           	Accepted                           	62 ms          	0 KB           
+214224714      	Jul/17/2023 17:53   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Accepted                           	62 ms          	0 KB           
+214223588      	Jul/17/2023 17:44   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 28            	30 ms          	0 KB           
+214219350      	Jul/17/2023 17:13   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+214219156      	Jul/17/2023 17:12   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+214213918      	Jul/17/2023 16:33   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 22            	0 ms           	0 KB           
+214212738      	Jul/17/2023 16:25   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+214211693      	Jul/17/2023 16:18   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+214210613      	Jul/17/2023 16:10   	OmarMGaber     	B - Taxi                                     	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+214062574      	Jul/16/2023 18:09   	OmarMGaber     	F - Vika and Wiki                            	GNU C++20 (64)           	Time limit exceeded on pretest 20  	2000 ms        	1000 KB        
+214047134      	Jul/16/2023 17:20   	OmarMGaber     	A - IQ test                                  	GNU C++20 (64)           	Accepted                           	62 ms          	0 KB           
+213972235      	Jul/16/2023 04:26   	OmarMGaber     	A - Keyboard                                 	GNU C++20 (64)           	Accepted                           	15 ms          	800 KB         
+213971428      	Jul/16/2023 04:05   	OmarMGaber     	D - Queue                                    	GNU C++20 (64)           	Accepted                           	31 ms          	1600 KB        
+213971101      	Jul/16/2023 03:56   	OmarMGaber     	D - Queue                                    	GNU C++20 (64)           	Wrong answer on test 3             	15 ms          	800 KB         
+213965505      	Jul/16/2023 01:20   	OmarMGaber     	H - Maximum Subarray Sum                     	GNU C++20 (64)           	Wrong answer on test 9             	31 ms          	3900 KB        
+213949284      	Jul/15/2023 21:41   	OmarMGaber     	B - Karen and Coffee                         	GNU C++20 (64)           	Accepted                           	686 ms         	1600 KB        
+213948048      	Jul/15/2023 21:28   	OmarMGaber     	B - Karen and Coffee                         	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	800 KB         
+213947420      	Jul/15/2023 21:22   	OmarMGaber     	B - Karen and Coffee                         	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	800 KB         
+213946561      	Jul/15/2023 21:14   	OmarMGaber     	B - Karen and Coffee                         	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	800 KB         
+213944851      	Jul/15/2023 20:59   	OmarMGaber     	B - Karen and Coffee                         	GNU C++20 (64)           	Time limit exceeded on test 9      	2500 ms        	800 KB         
+213933125      	Jul/15/2023 19:17   	OmarMGaber     	C - Little Girl and Maximum Sum              	GNU C++20 (64)           	Accepted                           	93 ms          	3100 KB        
+213933015      	Jul/15/2023 19:17   	OmarMGaber     	C - Little Girl and Maximum Sum              	GNU C++20 (64)           	Wrong answer on test 7             	61 ms          	1600 KB        
+213923457      	Jul/15/2023 18:05   	OmarMGaber     	A - Two Bags of Potatoes                     	GNU C++20 (64)           	Accepted                           	62 ms          	0 KB           
+213921465      	Jul/15/2023 17:49   	OmarMGaber     	A - Two Bags of Potatoes                     	GNU C++20 (64)           	Wrong answer on test 6             	30 ms          	0 KB           
+213921299      	Jul/15/2023 17:47   	OmarMGaber     	A - Two Bags of Potatoes                     	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+213920292      	Jul/15/2023 17:39   	OmarMGaber     	A - Two Bags of Potatoes                     	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+213914626      	Jul/15/2023 16:52   	OmarMGaber     	A - Two Substrings                           	GNU C++20 (64)           	Accepted                           	15 ms          	300 KB         
+213912137      	Jul/15/2023 16:29   	OmarMGaber     	A - Two Substrings                           	GNU C++20 (64)           	Wrong answer on test 17            	15 ms          	300 KB         
+213908975      	Jul/15/2023 16:03   	OmarMGaber     	B - Luxurious Houses                         	GNU C++20 (64)           	Accepted                           	46 ms          	1600 KB        
+213908807      	Jul/15/2023 16:02   	OmarMGaber     	A - Visiting a Friend                        	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+213585307      	Jul/13/2023 05:49   	OmarMGaber     	G - Hits Different                           	Clang++20 Diagnostics    	Time limit exceeded on test 2      	2500 ms        	93800 KB       
+213584812      	Jul/13/2023 05:43   	OmarMGaber     	G - Hits Different                           	GNU C++20 (64)           	Compilation error                  	0 ms           	0 KB           
+213584745      	Jul/13/2023 05:42   	OmarMGaber     	G - Hits Different                           	GNU C++20 (64)           	Compilation error                  	0 ms           	0 KB           
+213522803      	Jul/12/2023 17:13   	OmarMGaber     	C - Double Sort                              	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	0 KB           
+213509000      	Jul/12/2023 15:42   	OmarMGaber     	B - Buttons                                  	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+213428833      	Jul/12/2023 01:53   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 10            	0 ms           	0 KB           
+213428527      	Jul/12/2023 01:46   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+213428488      	Jul/12/2023 01:45   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 2             	15 ms          	0 KB           
+213427356      	Jul/12/2023 01:22   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+213427298      	Jul/12/2023 01:21   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 4             	0 ms           	0 KB           
+213427016      	Jul/12/2023 01:15   	OmarMGaber     	D - Mysterious Present                       	GNU C++20 (64)           	Wrong answer on test 3             	0 ms           	0 KB           
+213424868      	Jul/12/2023 00:35   	OmarMGaber     	C - Intense Heat                             	GNU C++20 (64)           	Accepted                           	46 ms          	100 KB         
+213195056      	Jul/11/2023 02:48   	OmarMGaber     	B - Domino Effect                            	GNU C++20 (64)           	Accepted                           	15 ms          	0 KB           
+213186530      	Jul/11/2023 00:29   	OmarMGaber     	D - Equivalent Strings                       	GNU C++20 (64)           	Wrong answer on test 19            	15 ms          	1000 KB        
+213141912      	Jul/10/2023 18:01   	OmarMGaber     	A - QAQ                                      	GNU C++20 (64)           	Accepted                           	15 ms          	39200 KB       
+213140693      	Jul/10/2023 17:52   	OmarMGaber     	A - QAQ                                      	GNU C++20 (64)           	Wrong answer on test 2             	0 ms           	39100 KB       
+212479446      	Jul/07/2023 01:33   	OmarMGaber     	A - QAQ                                      	GNU C++20 (64)           	Wrong answer on test 5             	0 ms           	0 KB           
+212479412      	Jul/07/2023 01:32   	OmarMGaber     	A - QAQ                                      	GNU C++20 (64)           	Wrong answer on test 1             	0 ms           	0 KB           
+212477041      	Jul/07/2023 00:48   	OmarMGaber     	A - QAQ                                      	GNU C++20 (64)           	Runtime error on test 4            	0 ms           	0 KB           
+212141227      	Jul/04/2023 23:41   	OmarMGaber     	B - Mirror in the String                     	GNU C++20 (64)           	Accepted                           	46 ms          	400 KB         
+212140963      	Jul/04/2023 23:37   	OmarMGaber     	B - Mirror in the String                     	GNU C++20 (64)           	Wrong answer on test 2             	15 ms          	0 KB           
+212134960      	Jul/04/2023 22:24   	OmarMGaber     	B - Borze                                    	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+212123383      	Jul/04/2023 20:10   	OmarMGaber     	A - Way Too Long Words                       	GNU C++20 (64)           	Accepted                           	0 ms           	0 KB           
+201825492      	Apr/12/2023 15:16   	OmarMGaber     	B - Dreamoon and WiFi                        	Java 11                  	Accepted                           	202 ms         	0 KB           
+201824807      	Apr/12/2023 15:11   	OmarMGaber     	B - Dreamoon and WiFi                        	Java 11                  	Wrong answer on test 8             	187 ms         	0 KB           
+201824687      	Apr/12/2023 15:10   	OmarMGaber     	B - Dreamoon and WiFi                        	Java 11                  	Wrong answer on test 2             	171 ms         	0 KB           
+201818976      	Apr/12/2023 14:26   	OmarMGaber     	B - Dreamoon and WiFi                        	Java 11                  	Wrong answer on test 4             	187 ms         	0 KB           
+201810603      	Apr/12/2023 13:05   	OmarMGaber     	C - Board Moves                              	Java 11                  	Accepted                           	187 ms         	0 KB           
+201637064      	Apr/10/2023 12:29   	OmarMGaber     	A - Helpful Maths                            	Java 11                  	Accepted                           	528 ms         	0 KB           
+201619252      	Apr/10/2023 09:04   	OmarMGaber     	B - Borze                                    	Java 11                  	Time limit exceeded on test 5      	2000 ms        	0 KB           
+201618700      	Apr/10/2023 08:56   	OmarMGaber     	B - Borze                                    	Java 11                  	Wrong answer on test 2             	404 ms         	0 KB           
+201618550      	Apr/10/2023 08:54   	OmarMGaber     	B - Borze                                    	Java 11                  	Wrong answer on test 2             	374 ms         	0 KB           
+201616535      	Apr/10/2023 08:26   	OmarMGaber     	A - Expression                               	Java 11                  	Accepted                           	187 ms         	0 KB           
+201616297      	Apr/10/2023 08:23   	OmarMGaber     	A - Expression                               	Java 11                  	Wrong answer on test 6             	186 ms         	0 KB           
+201432983      	Apr/09/2023 10:35   	OmarMGaber     	B - Multiply by 2, divide by 6               	Java 11                  	Accepted                           	374 ms         	0 KB           
+201432273      	Apr/09/2023 10:29   	OmarMGaber     	B - Multiply by 2, divide by 6               	Java 11                  	Time limit exceeded on test 2      	1000 ms        	0 KB           
+201429278      	Apr/09/2023 10:01   	OmarMGaber     	A - Filling Diamonds                         	Java 11                  	Accepted                           	343 ms         	0 KB           
+201427229      	Apr/09/2023 09:41   	OmarMGaber     	B - Buttons                                  	Java 11                  	Wrong answer on test 3             	342 ms         	0 KB           
+201425082      	Apr/09/2023 09:20   	OmarMGaber     	A - Design Tutorial: Learn from Math         	Java 11                  	Accepted                           	218 ms         	0 KB           
+201423632      	Apr/09/2023 09:06   	OmarMGaber     	A - Design Tutorial: Learn from Math         	Java 11                  	Time limit exceeded on test 2      	1000 ms        	0 KB           
+201422001      	Apr/09/2023 08:50   	OmarMGaber     	A - Elections                                	Java 11                  	Accepted                           	327 ms         	0 KB           
+201419603      	Apr/09/2023 08:26   	OmarMGaber     	A - Elections                                	Java 11                  	Wrong answer on test 2             	342 ms         	0 KB           
+201418535      	Apr/09/2023 08:15   	OmarMGaber     	A - Elections                                	Java 11                  	Wrong answer on test 1             	171 ms         	0 KB           
+201417711      	Apr/09/2023 08:07   	OmarMGaber     	A - C+=                                      	Java 11                  	Accepted                           	187 ms         	0 KB           
+201413968      	Apr/09/2023 07:17   	OmarMGaber     	A - Puzzles                                  	Java 11                  	Accepted                           	374 ms         	0 KB           
+201412589      	Apr/09/2023 06:57   	OmarMGaber     	A - Soldier and Bananas                      	Java 11                  	Accepted                           	171 ms         	0 KB           
+201412550      	Apr/09/2023 06:56   	OmarMGaber     	A - Soldier and Bananas                      	Java 11                  	Compilation error                  	0 ms           	0 KB           
+201412477      	Apr/09/2023 06:55   	OmarMGaber     	A - Soldier and Bananas                      	Java 11                  	Wrong answer on test 2             	170 ms         	0 KB           
+201411571      	Apr/09/2023 06:42   	OmarMGaber     	A - Bear and Big Brother                     	Java 11                  	Accepted                           	187 ms         	0 KB           
+201109584      	Apr/07/2023 10:39   	OmarMGaber     	A - A+B?                                     	Java 11                  	Accepted                           	187 ms         	0 KB           
+201108641      	Apr/07/2023 10:26   	OmarMGaber     	A - cAPS lOCK                                	Java 11                  	Accepted                           	202 ms         	0 KB           
+201108515      	Apr/07/2023 10:25   	OmarMGaber     	A - cAPS lOCK                                	Java 11                  	Wrong answer on test 6             	202 ms         	0 KB           
+201108378      	Apr/07/2023 10:23   	OmarMGaber     	A - cAPS lOCK                                	Java 11                  	Wrong answer on test 6             	186 ms         	0 KB           
+201108176      	Apr/07/2023 10:20   	OmarMGaber     	A - cAPS lOCK                                	Java 11                  	Wrong answer on test 1             	186 ms         	0 KB           
+201107270      	Apr/07/2023 10:09   	OmarMGaber     	A - cAPS lOCK                                	Java 11                  	Wrong answer on test 3             	202 ms         	0 KB           
+201094558      	Apr/07/2023 07:10   	OmarMGaber     	A - Cut Ribbon                               	Java 11                  	Wrong answer on test 6             	186 ms         	0 KB           
+200826443      	Apr/05/2023 06:48   	OmarMGaber     	B - Even Array                               	Java 11                  	Wrong answer on test 1             	171 ms         	0 KB           
+200817321      	Apr/05/2023 03:38   	OmarMGaber     	A - Sum                                      	Java 11                  	Accepted                           	280 ms         	0 KB           
+200813687      	Apr/05/2023 01:59   	OmarMGaber     	A - Dragons                                  	Java 11                  	Accepted                           	434 ms         	0 KB           
+200812459      	Apr/05/2023 01:29   	OmarMGaber     	A - Dragons                                  	Java 11                  	Wrong answer on test 4             	342 ms         	0 KB           
+200513137      	Apr/03/2023 08:30   	OmarMGaber     	A - YES or YES?                              	Java 11                  	Accepted                           	187 ms         	0 KB           
+200506945      	Apr/03/2023 08:16   	OmarMGaber     	A - Gravity Flip                             	Java 11                  	Accepted                           	202 ms         	0 KB           
+200485096      	Apr/03/2023 01:03   	OmarMGaber     	100 - A+B                                    	Java 11                  	Accepted                           	171 ms         	0 KB           
+200484662      	Apr/03/2023 00:55   	OmarMGaber     	A - Watermelon                               	Java 11                  	Accepted                           	404 ms         	0 KB           
+200305576      	Apr/01/2023 23:56   	OmarMGaber     	A - Wrong Subtraction                        	Java 11                  	Accepted                           	187 ms         	0 KB           
+199905142      	Mar/31/2023 07:33   	OmarMGaber     	A - Expression                               	Java 11                  	Wrong answer on test 8             	171 ms         	0 KB           
+199905097      	Mar/31/2023 07:32   	OmarMGaber     	A - Expression                               	Java 11                  	Runtime error on test 1            	139 ms         	0 KB           
+199904989      	Mar/31/2023 07:30   	OmarMGaber     	A - Expression                               	Java 11                  	Wrong answer on test 8             	202 ms         	0 KB           
+199903260      	Mar/31/2023 06:54   	OmarMGaber     	A - Expression                               	Java 11                  	Wrong answer on test 3             	171 ms         	0 KB           
+199902054      	Mar/31/2023 06:27   	OmarMGaber     	B - Drinks                                   	Java 11                  	Accepted                           	404 ms         	0 KB           
+199769527      	Mar/30/2023 03:44   	OmarMGaber     	A - I_love_\%username\%                      	Java 11                  	Accepted                           	404 ms         	0 KB           
+199617415      	Mar/29/2023 07:37   	OmarMGaber     	A - Translation                              	Java 11                  	Accepted                           	434 ms         	0 KB           
+199616295      	Mar/29/2023 07:19   	OmarMGaber     	A - Stones on the Table                      	Java 11                  	Accepted                           	434 ms         	0 KB           
+199616124      	Mar/29/2023 07:15   	OmarMGaber     	A - Stones on the Table                      	Java 11                  	Runtime error on test 1            	310 ms         	0 KB           
+199616104      	Mar/29/2023 07:15   	OmarMGaber     	A - Stones on the Table                      	Java 11                  	Wrong answer on test 1             	342 ms         	0 KB           
+199577541      	Mar/28/2023 21:10   	OmarMGaber     	A - Chat room                                	Java 11                  	Accepted                           	187 ms         	0 KB           
+199576872      	Mar/28/2023 21:04   	OmarMGaber     	A - Chat room                                	Java 11                  	Accepted                           	233 ms         	0 KB           
+199575683      	Mar/28/2023 20:53   	OmarMGaber     	A - Chat room                                	Java 11                  	Accepted                           	233 ms         	0 KB           
+199574929      	Mar/28/2023 20:47   	OmarMGaber     	A - Chat room                                	Java 11                  	Accepted                           	233 ms         	0 KB           
+199564483      	Mar/28/2023 19:25   	OmarMGaber     	A - Chat room                                	Java 11                  	Wrong answer on test 3             	218 ms         	0 KB           
+199558576      	Mar/28/2023 18:38   	OmarMGaber     	A - Word                                     	Java 11                  	Accepted                           	404 ms         	0 KB           
+199557990      	Mar/28/2023 18:33   	OmarMGaber     	A - Word                                     	Java 11                  	Runtime error on test 1            	342 ms         	0 KB           
+199557174      	Mar/28/2023 18:27   	OmarMGaber     	A - Word                                     	Java 11                  	Runtime error on test 1            	310 ms         	0 KB           
+199556777      	Mar/28/2023 18:24   	OmarMGaber     	A - Word                                     	Java 11                  	Runtime error on test 1            	310 ms         	0 KB           
+199556479      	Mar/28/2023 18:22   	OmarMGaber     	A - Word                                     	Java 17                  	Runtime error on test 1            	280 ms         	0 KB           
+199556139      	Mar/28/2023 18:19   	OmarMGaber     	A - Word                                     	Java 11                  	Runtime error on test 1            	312 ms         	0 KB           
+199556039      	Mar/28/2023 18:18   	OmarMGaber     	A - Word                                     	Java 11                  	Compilation error                  	0 ms           	0 KB           
+199555790      	Mar/28/2023 18:16   	OmarMGaber     	A - Word                                     	Java 11                  	Runtime error on test 1            	310 ms         	0 KB           
+191191582      	Jan/30/2023 03:33   	OmarMGaber     	A - String Task                              	Java 11                  	Runtime error on test 3            	404 ms         	0 KB           
+191190235      	Jan/30/2023 02:50   	OmarMGaber     	A - Petya and Strings                        	Java 11                  	Accepted                           	404 ms         	0 KB           
+191190107      	Jan/30/2023 02:46   	OmarMGaber     	A - Petya and Strings                        	Java 11                  	Wrong answer on test 5             	342 ms         	0 KB           
+191190048      	Jan/30/2023 02:45   	OmarMGaber     	A - Petya and Strings                        	Java 11                  	Wrong answer on test 2             	342 ms         	0 KB           
+191183030      	Jan/30/2023 00:15   	OmarMGaber     	A - Next Round                               	Java 11                  	Accepted                           	374 ms         	0 KB           
+191168126      	Jan/29/2023 21:28   	OmarMGaber     	A - Next Round                               	Java 11                  	Runtime error on test 34           	374 ms         	0 KB           
+191166517      	Jan/29/2023 21:10   	OmarMGaber     	A - Next Round                               	Java 11                  	Wrong answer on test 7             	436 ms         	0 KB           
+191165561      	Jan/29/2023 20:59   	OmarMGaber     	A - Next Round                               	Java 11                  	Wrong answer on test 7             	404 ms         	0 KB           
+191148440      	Jan/29/2023 19:25   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Accepted                           	187 ms         	0 KB           
+191148299      	Jan/29/2023 19:24   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Wrong answer on test 9             	171 ms         	0 KB           
+191129551      	Jan/29/2023 18:17   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Time limit exceeded on test 9      	1000 ms        	0 KB           
+191127962      	Jan/29/2023 18:13   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Time limit exceeded on test 9      	1000 ms        	0 KB           
+191127137      	Jan/29/2023 18:11   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Wrong answer on test 9             	998 ms         	0 KB           
+191118658      	Jan/29/2023 17:52   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Wrong answer on test 3             	187 ms         	0 KB           
+191116684      	Jan/29/2023 17:49   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Wrong answer on test 4             	186 ms         	0 KB           
+191112586      	Jan/29/2023 17:43   	OmarMGaber     	A - Theatre Square                           	Java 11                  	Wrong answer on test 2             	202 ms         	0 KB           
